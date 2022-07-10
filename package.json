@@ -37,8 +37,13 @@
   "keywords": [
     "vite",
     "React.js",
-    "Tailwind.Css"
+    "Tailwind.Css",
+    "Eslint"
   ],
-  "author": "JapCode",
+  "author": {
+    "name": "JapCode",
+    "email": "japcode.info@gmail.com",
+    "url": "https://github.com/JapCode"
+  },
   "license": "MIT"
 }
